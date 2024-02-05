@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=danger&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samandar+Ergashev!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=black&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samandar+Ergashev!;" />
 </h1>
 
 <h3 align="center">I am a software engineer from Uzbekistan 
