@@ -1,3 +1,4 @@
+/*
 https://dpaste.org/QUzHQ 
 https://dpaste.org/QUzHQ
 About History New snippet
@@ -10,7 +11,7 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://gist.github.com/rxaviers/7360908
 https://github.com/anuraghazra/github-readme-stats
 https://rahuldkjain.github.io/gh-profile-readme-generator/
-
+*/
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
