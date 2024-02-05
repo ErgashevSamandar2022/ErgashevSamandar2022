@@ -1,2 +1,524 @@
-<h1 align="center">Hello, I'm Ergashev Samandar 🙌</h1>
-<img align="" src="({data:image/jpeg;base64,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})">
+[<h1 align="center">Hello, I'm Ergashev Samandar 🙌</h1>
+](https://dpaste.org/QUzHQ 
+https://dpaste.org/QUzHQ
+About History New snippet
+Python Expires in: 1 month
+Delete Now
+Raw
+Slim
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://gist.github.com/rxaviers/7360908
+https://github.com/anuraghazra/github-readme-stats
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">I am a software engineer from Uzbekistan 🇺🇿</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+
+
+
+-google translate qo'shish
+-iqtidorli va kafedra tarixini bazadan opkelish
+-saytni yengil ishlashi uchun maksimum cdnlardan voz kechish
+hamda fayllarni maksimum kichraytirish hajmini
+-filterlarni bir qator tekshirib qo'yish
+
+
+/media/uploads/2024/01/30/irisqulov.jpg
+/media/uploads/2024/01/30/hakimjon_abdulhafizov.jpeg
+/media/uploads/2024/01/30/karimov_pazliddin.jpeg
+/media/uploads/2024/01/30/hasanov_xojiakbar.png
+/media/uploads/2024/01/30/aliyev_azamjon.png
+/media/uploads/2024/01/30/orif_ulugbek.png
+
+
+/media/uploads/2024/01/30/xoji_xasanov.png
+
+
+
+
+
+<iframe src="https://onedrive.live.com/embed?resid=997B4F74BFC4D51C%21126&authkey=!AKK60iEmkxYp5vI&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+
+<p>Hello</p>
+
+
+
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=Q1qb3FouhGe3euoA
+
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=-PSLJKW2BSawX-RC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy Snippet
+Edit Snippet
+ Wordwrap
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://gist.github.com/rxaviers/7360908
+https://github.com/anuraghazra/github-readme-stats
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+​
+​
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+​
+​
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+​
+<h3 align="center">I am a software engineer from Uzbekistan 🇺🇿</h3>
+​
+<br/>
+​
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+​
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+​
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+​
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+​
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+​
+<br/>
+<hr/>
+​
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+​
+<hr/>
+​
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+​
+<br/><br/>
+​
+<hr/>
+​
+<br/>
+​
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+​
+<br/>
+​
+​
+​
+​
+-google translate qo'shish
+-iqtidorli va kafedra tarixini bazadan opkelish
+-saytni yengil ishlashi uchun maksimum cdnlardan voz kechish
+hamda fayllarni maksimum kichraytirish hajmini
+-filterlarni bir qator tekshirib qo'yish
+​
+​
+/media/uploads/2024/01/30/irisqulov.jpg
+/media/uploads/2024/01/30/hakimjon_abdulhafizov.jpeg
+/media/uploads/2024/01/30/karimov_pazliddin.jpeg
+/media/uploads/2024/01/30/hasanov_xojiakbar.png
+/media/uploads/2024/01/30/aliyev_azamjon.png
+/media/uploads/2024/01/30/orif_ulugbek.png
+​
+​
+/media/uploads/2024/01/30/xoji_xasanov.png
+​
+​
+​
+​
+​
+<iframe src="https://onedrive.live.com/embed?resid=997B4F74BFC4D51C%21126&authkey=!AKK60iEmkxYp5vI&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+​
+<p>Hello</p>
+​
+​
+​
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=Q1qb3FouhGe3euoA
+​
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=-PSLJKW2BSawX-RC)https://dpaste.org/QUzHQ 
+https://dpaste.org/QUzHQ
+About History New snippet
+Python Expires in: 1 month
+Delete Now
+Raw
+Slim
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://gist.github.com/rxaviers/7360908
+https://github.com/anuraghazra/github-readme-stats
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">I am a software engineer from Uzbekistan 🇺🇿</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+
+
+
+-google translate qo'shish
+-iqtidorli va kafedra tarixini bazadan opkelish
+-saytni yengil ishlashi uchun maksimum cdnlardan voz kechish
+hamda fayllarni maksimum kichraytirish hajmini
+-filterlarni bir qator tekshirib qo'yish
+
+
+/media/uploads/2024/01/30/irisqulov.jpg
+/media/uploads/2024/01/30/hakimjon_abdulhafizov.jpeg
+/media/uploads/2024/01/30/karimov_pazliddin.jpeg
+/media/uploads/2024/01/30/hasanov_xojiakbar.png
+/media/uploads/2024/01/30/aliyev_azamjon.png
+/media/uploads/2024/01/30/orif_ulugbek.png
+
+
+/media/uploads/2024/01/30/xoji_xasanov.png
+
+
+
+
+
+<iframe src="https://onedrive.live.com/embed?resid=997B4F74BFC4D51C%21126&authkey=!AKK60iEmkxYp5vI&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+
+<p>Hello</p>
+
+
+
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=Q1qb3FouhGe3euoA
+
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=-PSLJKW2BSawX-RC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copy Snippet
+Edit Snippet
+ Wordwrap
+https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+https://gist.github.com/rxaviers/7360908
+https://github.com/anuraghazra/github-readme-stats
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+​
+​
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+​
+​
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+​
+<h3 align="center">I am a software engineer from Uzbekistan 🇺🇿</h3>
+​
+<br/>
+​
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+​
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+​
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+​
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+​
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+​
+<br/>
+<hr/>
+​
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+​
+<hr/>
+​
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+​
+<br/><br/>
+​
+<hr/>
+​
+<br/>
+​
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+​
+<br/>
+​
+​
+​
+​
+-google translate qo'shish
+-iqtidorli va kafedra tarixini bazadan opkelish
+-saytni yengil ishlashi uchun maksimum cdnlardan voz kechish
+hamda fayllarni maksimum kichraytirish hajmini
+-filterlarni bir qator tekshirib qo'yish
+​
+​
+/media/uploads/2024/01/30/irisqulov.jpg
+/media/uploads/2024/01/30/hakimjon_abdulhafizov.jpeg
+/media/uploads/2024/01/30/karimov_pazliddin.jpeg
+/media/uploads/2024/01/30/hasanov_xojiakbar.png
+/media/uploads/2024/01/30/aliyev_azamjon.png
+/media/uploads/2024/01/30/orif_ulugbek.png
+​
+​
+/media/uploads/2024/01/30/xoji_xasanov.png
+​
+​
+​
+​
+​
+<iframe src="https://onedrive.live.com/embed?resid=997B4F74BFC4D51C%21126&authkey=!AKK60iEmkxYp5vI&em=2" width="402" height="327" frameborder="0" scrolling="no"></iframe>
+​
+<p>Hello</p>
+​
+​
+​
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=Q1qb3FouhGe3euoA
+​
+https://youtube.com/playlist?list=PLpDyZ4xZcDg8fRiY6xgsQcDiMjNYJhNjE&si=-PSLJKW2BSawX-RC
