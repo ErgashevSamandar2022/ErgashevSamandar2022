@@ -4,7 +4,8 @@ font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=400
 </h1>
 
 <h3 align="center">I am a software engineer from Uzbekistan 
-<img src="">☑️![Uploading özbekistanOzbekistanGIF.gif…]()
+![UzbekistanGIF (2)](https://github.com/ErgashevSamandar2022/ErgashevSamandar2022/assets/141600568/52767035-85b9-4f61-9da3-532045a93339)
+![UzbekistanGIF](https://github.com/ErgashevSamandar2022/ErgashevSamandar2022/assets/141600568/7e0ede99-3319-467e-866c-887678fa4890)
 
 </h3>
 
