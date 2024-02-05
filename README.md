@@ -1,1 +1,1 @@
-<h1 align="center">Hello, I'm Ergashev Samandar</h1>
+<h1 align="center">Hello, I'm Ergashev Samandar 🙌</h1>
