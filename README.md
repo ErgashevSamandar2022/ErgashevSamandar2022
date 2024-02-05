@@ -1,21 +1,3 @@
-/*
-https://dpaste.org/QUzHQ 
-https://dpaste.org/QUzHQ
-About History New snippet
-Python Expires in: 1 month
-Delete Now
-Raw
-Slim
-https://github.com/abhisheknaiidu/awesome-github-profile-readme?tab=readme-ov-file
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://gist.github.com/rxaviers/7360908
-https://github.com/anuraghazra/github-readme-stats
-https://rahuldkjain.github.io/gh-profile-readme-generator/
-*/
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Samandar+Ergashev!;" />
 </h1>
